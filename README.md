@@ -49,7 +49,7 @@ The roadmap is divided into four stages: Beginner, Intermediate, Advanced, and P
   - C: [C Programming For Beginners](https://www.udemy.com) (Udemy) or [CS50](https://www.edx.org/course/introduction-to-computer-science) (Harvard, free).
   - Python: [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) (free).
   - DevOps: [Docker for Beginners](https://www.udemy.com) (Udemy).
-  - Embedded Linux: [Free Electrons Tutorials](https://bootlin.com/docs).
+  - Embedded Linux: [Free Tutorials](https://bootlin.com/docs).
 - **Books**:
   - *The Linux Command Line* by William Shotts.
   - *C Programming Language* by Kernighan & Ritchie.
