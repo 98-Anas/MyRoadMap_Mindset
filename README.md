@@ -280,7 +280,7 @@ The roadmap is divided into four stages: Beginner, Intermediate, Advanced, and P
 - **Hardware/Cloud**: Invest in a Raspberry Pi; use cloud credits for DevOps.
 
 ## Contributing
-Contributions to this roadmap are welcome! Submit pull requests with additional resources, project ideas, or corrections. Join the discussion on X or relevant mailing lists to share your progress.
+Contributions to this roadmap are welcome! Submit pull requests with additional resources, project ideas, or corrections. I will be happy with any suggestions you send me on LinkedIn.
 
 ## License
 This roadmap is licensed under the [MIT License](LICENSE).
